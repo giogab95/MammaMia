@@ -1,7 +1,7 @@
 {
   "Siti": {
          "StreamingCommunity": {
-             "domain": "asia"
+             "domain": "computer"
          },
          "Filmpertutti": {
              "domain": "diy"
@@ -10,7 +10,7 @@
              "domain": "bond"
          },
          "Mysterius":{
-             "enabled": "0"    
+             "enabled": "1"    
          },
         "LordChannel":{
              "domain":"com"
